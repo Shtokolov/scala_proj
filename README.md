@@ -1,4 +1,4 @@
-** build.sbt config **
+**build.sbt config**
 
 
 ```
